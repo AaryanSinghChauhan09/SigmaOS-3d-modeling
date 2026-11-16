@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-3d-modeling"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS 3d-modeling component"
+
+[lib]
+name = "sigmaos_3d_modeling"
+path = "src/lib.rs"
